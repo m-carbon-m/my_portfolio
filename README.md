@@ -11,13 +11,13 @@ Welcome to my data portfolio!
 ### Python
 Check out some of the Python projects I’ve built:
 - [Math Challenges](https://github.com/m-carbon-m/python-projects/blob/main/math_challenges.ipynb) 🔢
+- [Tic-Tac-Toe](https://github.com/m-carbon-m/python-projects/blob/main/tic-tac-toe) ❌⭕
+- [Zoo Simulator](https://github.com/m-carbon-m/python-projects/blob/main/zoo-simulator)🐅🐘
+- [Dice Simulator](https://github.com/m-carbon-m/python-projects/blob/main/dice-simulator.ipynb) 🎲 
+- [Caesar Cipher](https://github.com/m-carbon-m/python-projects/blob/main/caesar-cipher.ipynb) 🔐  
+- [Calculator](https://github.com/m-carbon-m/python-projects/blob/main/calculator.ipynb) 🧮  
+- [Rock-Paper-Scissors](https://github.com/m-carbon-m/python-projects/blob/main/rock-paper-scissors.ipynb) ✊✋✌️ 
 - [Interactive Ticket Machine](https://github.com/m-carbon-m/python-projects/blob/main/interactive-ticket-machine.ipynb) 🎫  
-- [Rock-Paper-Scissors](https://github.com/m-carbon-m/rock-paper-scissors) ✊✋✌️  
-- [Calculator](https://github.com/m-carbon-m/calculator) 🧮  
-- [Caesar Cipher](https://github.com/m-carbon-m/caesar-cipher) 🔐  
-- [Dice Simulator](https://github.com/m-carbon-m/dice-simulator) 🎲  
-- [Tic-Tac-Toe](https://github.com/m-carbon-m/tic-tac-toe) ❌⭕
-- [Zoo Simulator](https://github.com/m-carbon-m/zoo-simulator)🐅🐘
 
 ### SQL
 
