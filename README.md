@@ -10,7 +10,7 @@ Welcome to my data portfolio!
 
 ### Python
 Check out some of the Python projects I’ve built:
-- [Math Challenges](https://github.com/m-carbon-m/math-challenges/blob/main/math_challenges.ipynb) 🔢
+- [Math Challenges](https://github.com/m-carbon-m/python-projects/blob/main/math_challenges.ipynb) 🔢
 - [Interactive Ticket Machine](https://github.com/m-carbon-m/interactive-ticket-machine) 🎫  
 - [Rock-Paper-Scissors](https://github.com/m-carbon-m/rock-paper-scissors) ✊✋✌️  
 - [Calculator](https://github.com/m-carbon-m/calculator) 🧮  
