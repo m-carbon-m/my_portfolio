@@ -20,6 +20,7 @@ Check out some of the Python projects I’ve built:
 - [Interactive Ticket Machine](https://github.com/m-carbon-m/python-projects/blob/main/interactive-ticket-machine.ipynb) 🎫  
 
 ### SQL
+Take a look at my SQL excercises:
 
 ### Tableau
 
