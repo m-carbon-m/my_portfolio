@@ -21,6 +21,11 @@ Check out some of the Python projects I’ve built:
 
 ### SQL
 Take a look at my SQL excercises:
+- 🏢 [Employee Database Analysis](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_employees.ipynb) – Salaries, job titles, birthdays, and department stats.
+- 🎬 [DVD Rentals](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_dvd_rentals.ipynb) – Customers, films, and categories queries.
+- 📊 [Classic Models Sales Database](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_classic_models.ipynb) – Customer orders, product performance, and revenue analysis.
+- ✈️ [Airport Management System](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_flughafen.ipynb) – Flights, passengers, and bookings; includes database design and analysis.
+
 
 ### Tableau
 
