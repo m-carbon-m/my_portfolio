@@ -1,4 +1,4 @@
-## Margherita's Portfolio 📖✨
+# Margherita's Portfolio 📖✨
 
 Welcome to my data portfolio!
 
