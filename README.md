@@ -26,8 +26,9 @@ Take a look at my SQL excercises:
 - 📊 [Classic Models Sales Database](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_classic_models.ipynb) – Customer orders, product performance, and revenue analysis.
 - ✈️ [Airport Management System](https://github.com/m-carbon-m/SQL_projects/blob/main/SQL_flughafen.ipynb) – Flights, passengers, and bookings; includes database design and analysis.
 
-
 ### Tableau
+
+- 🧾 [Superstore Sales](https://github.com/m-carbon-m/visualization-projects/blob/main/tableau-superstore.md) - Tableau dashboard analyzing Superstore sales, profit, and seasonal trends (2014–2017).
 
 ### Power BI
 
