@@ -32,5 +32,6 @@ Take a look at my SQL excercises:
 
 ### Power BI
 
-
- 
+- 🍪 [Cookies Sales](https://github.com/m-carbon-m/visualization-projects/blob/main/powerBI-cookies.md) – Interactive dashboard analyzing product performance and sales trends for a fictional cookies business.
+- 📚 [Online Bookshop](https://github.com/m-carbon-m/visualization-projects/blob/main/powerBI-buchshop.md) – Interactive visualizations exploring book sales, authors, editions, and ratings, highlighting top books and monthly trends.
+- 💊 [Pharmaceutical Sales](https://github.com/m-carbon-m/visualization-projects/blob/main/powerBI-pharma_sales.md) – Multi-page reports analyzing pharmaceutical sales by product, city, channel, and sales team performance.
